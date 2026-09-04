@@ -17,7 +17,7 @@ dependencies.
 
 ## Download
 
-Download the source archive from the [ABCmaps v0.10.0 GitHub release](https://github.com/caofff/ABCmaps/releases/download/v0.10.0/ABCmaps_0.10.0.tar.gz).
+Download the source archive with author information from the [ABCmaps v0.10.0 GitHub release](https://github.com/caofff/ABCmaps/releases/download/v0.10.0/ABCmaps_0.10.0-authors.tar.gz).
 
 ## Package contents
 
