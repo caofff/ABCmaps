@@ -677,3 +677,9 @@ R CMD check --no-manual ABCmaps_0.10.0.tar.gz
 The smoke test can also be run through `R CMD check`; it verifies installation,
 weight normalization, output dimensions, both pilot cost modes, and basic MAPS,
 PF-IS, and ABC-ASMC execution.
+
+
+
+=======
+
+For questions or support, please contact: [xuefeicao@mail.nankai.edu.cn], [wangshj1@shanghaitech.edu.cn]
